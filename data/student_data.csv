@@ -1,0 +1,351 @@
+student_id,branch,year,skills,interest_area,course_taken,completed
+STU0001,CSE,2,"c/c++, Project",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0002,IT,2,"aws lambdas, security, semantics, Programming",Python & Software,Python Programming Essentials,Yes
+STU0003,CSE,4,"aws environment, database",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0004,IT,2,"layer, security assessments",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0005,IT,2,"cyber, regulation, security operations",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0006,CSE,4,"education, java development, c++",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,No
+STU0007,EEE,4,"Computer, mdm cloud, Transpose",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0008,IT,2,"azure, and",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0009,CSE,3,"traffic, management, cisco networking",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0010,CSE,2,"sql querying, aggregate, function",Data Science,Mastering SQL Joins,No
+STU0011,CSE,2,"database programming, java, annotation, integrated",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0012,CSE,4,"Machine, Learning, Algorithms",AI/ML,Project Planning and Machine Learning,No
+STU0013,CSE,4,"management, systems, sql development",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0014,CSE,2,"sql-like databases, ecosystems, economics",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,No
+STU0015,ECE,4,"specification, technical",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",No
+STU0016,ECE,3,"patient, programming in python, azure",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0017,IT,4,"security policies, security metrics",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0018,EEE,4,"Programming, handling, Python",Python & Software,Exception Handling in Python,Yes
+STU0019,IT,2,"and, power bi, Leadership, SQL",Data Science,Managing Big Data with MySQL,Yes
+STU0020,IT,2,"retailing, excel reporting, category",AI/ML,Channel Management and Retailing,Yes
+STU0021,CSE,4,"Algebra, And",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0022,ECE,4,"cloud implementation, telnet, key",Cybersecurity,Wireshark for Basic Network Security Analysis,No
+STU0023,ECE,4,"postgresql, patient, buprenorphinenaloxone, database architecture",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0024,CSE,3,"analysis, PyTorch, mssql server",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0025,CSE,2,"sas/sql, Analysis",Data Science,Retrieve Data using Single-Table SQL Queries,Yes
+STU0026,ECE,2,"Project, project",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0027,IT,2,"python, Python",Python & Software,Python Programming Essentials,No
+STU0028,IT,3,"business, Computing",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,No
+STU0029,ECE,3,"aws athena and glue, authentication, nosql, multiplexed",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0030,CSE,3,"data security controls, security",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0031,ECE,2,"child, teaching",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0032,ECE,3,"Computer, Programming",Python & Software,Python Tricks and Hacks for Productivity,No
+STU0033,CSE,3,"Leadership, and, crime",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0034,CSE,2,"management, security software, mysql",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0035,IT,2,"aws, database, aggregate, project",Data Science,Mastering SQL Joins,Yes
+STU0036,CSE,2,"relational databases, java, Databases, annotation",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0037,CSE,4,"Learning, Planning, Machine, Algorithms",AI/ML,Project Planning and Machine Learning,Yes
+STU0038,IT,2,"aws deployment, sql (hive, systems",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0039,IT,2,"the, economics, ecosystems",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0040,EEE,2,"specification, oracle databases, technical, standard",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0041,ECE,4,"Strategy, project, patient",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0042,CSE,2,"security appliances, oauth, syntax, iOS",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0043,ECE,4,"aws sqs, Programming, exception, aws services",Python & Software,Exception Handling in Python,Yes
+STU0044,CSE,2,"and, custom python scripts, Management, Leadership",Data Science,Managing Big Data with MySQL,No
+STU0045,ECE,3,"category, Marketing",AI/ML,Channel Management and Retailing,Yes
+STU0046,CSE,4,"machine learning (ml, And, Algebra, sql skills",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0047,IT,2,"nosql, aws, telnet",Cybersecurity,Wireshark for Basic Network Security Analysis,Yes
+STU0048,ECE,2,"buprenorphinenaloxone, patient",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0049,CSE,2,"familiarity with java, PyTorch, python/ruby",Data Science,Analyze Website Visitors with Google Analytics Segments,No
+STU0050,CSE,4,"select, sql, Analysis, agile",Data Science,Retrieve Data using Single-Table SQL Queries,Yes
+STU0051,IT,3,"modeling, amazon aws, Management",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0052,CSE,3,"Python, coding, Programming, agile frameworks",Python & Software,Python Programming Essentials,Yes
+STU0053,CSE,2,"proficiency in excel, sql development, Cloud",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0054,IT,4,"authentication, sql server/pools, layer",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0055,IT,2,"cybersecurity, security, cyber, microsoft azure",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,No
+STU0056,CSE,4,"nosql technologies, development, education, agile development",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0057,IT,3,"Computer, Transpose, oracle databases, concision",Python & Software,Python Tricks and Hacks for Productivity,No
+STU0058,IT,4,"and, endpoint security, crime, Management",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0059,IT,3,"management, security appliances, packet",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0060,IT,4,"rdbms (sql, project, employment, function",Data Science,Mastering SQL Joins,Yes
+STU0061,IT,2,"java, Databases, annotation, integrated",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0062,CSE,2,"Learning, excel",AI/ML,Project Planning and Machine Learning,Yes
+STU0063,CSE,4,"Databases, sql (desired",Data Science,Create Relational Database Tables Using SQLiteStudio,No
+STU0064,CSE,3,"the, ecotourism",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0065,ECE,2,"cloud aws (s3, iteration, specification, standard",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",No
+STU0066,ECE,4,"cloud environment, microsoft power bi, Strategy, project",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),No
+STU0067,IT,2,"iOS, javascript, wireless security, security zones",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0068,CSE,4,"handling, Programming, exception, sql and nosql",Python & Software,Exception Handling in Python,Yes
+STU0069,CSE,2,"and, database data models, SQL",Data Science,Managing Big Data with MySQL,Yes
+STU0070,CSE,3,"sql, Marketing",AI/ML,Channel Management and Retailing,No
+STU0071,IT,3,"And, Algebra, sigmaalgebra",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0072,IT,3,"cryptography, tableau, https, telnet",Cybersecurity,Wireshark for Basic Network Security Analysis,No
+STU0073,CSE,3,"pl/sql scripting, sql-like databases, patient, substance",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),No
+STU0074,IT,2,"Segmentation, Analysis, PyTorch",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0075,IT,2,"scripting (python, Data, javascript, select",Data Science,Retrieve Data using Single-Table SQL Queries,No
+STU0076,IT,3,"Management, Project, modeling",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0077,CSE,3,"Programming, coding, xhtml",Python & Software,Python Programming Essentials,Yes
+STU0078,CSE,2,"requirements, business, python (numpy",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0079,ECE,2,"multiplexed, layer",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0080,CSE,3,"cyber, regulation, cybersecurity",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0081,ECE,2,"programming (python, teaching, agile principles",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0082,CSE,4,"Programming, Computer, Transpose, concision",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0083,ECE,4,"networking protocols, Management, Leadership",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0084,IT,4,"management, packet, security+ ce",Cybersecurity,Packet Switching Networks and Algorithms,No
+STU0085,IT,3,"function, t-sql or pl/sql, project",Data Science,Mastering SQL Joins,No
+STU0086,IT,3,"annotation, java, Databases",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0087,IT,3,"tableau, Planning, Algorithms, Machine",AI/ML,Project Planning and Machine Learning,Yes
+STU0088,IT,4,"systems, data wrangling (sql, oracle erp cloud",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0089,IT,4,"the, ecosystems",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0090,CSE,3,"java spring, iteration, python programming, specification",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0091,IT,3,"Strategy, java/scala",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0092,IT,3,"syntax, security products, iOS, javascript",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0093,ECE,2,"exception, Python",Python & Software,Exception Handling in Python,Yes
+STU0094,CSE,2,"oracle database, writing sql statements, and",Data Science,Managing Big Data with MySQL,Yes
+STU0095,ECE,4,"category, retailing",AI/ML,Channel Management and Retailing,Yes
+STU0096,ECE,2,"database tools (r, Eigenvalues",AI/ML,Mathematics for Machine Learning: Linear Algebra,No
+STU0097,IT,3,"cloud, key",Cybersecurity,Wireshark for Basic Network Security Analysis,No
+STU0098,CSE,2,"buprenorphinenaloxone, substance",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),No
+STU0099,IT,2,"aws cloud technologies, analysis, PyTorch, oracle sql",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0100,IT,3,"aws solutions, python scripting, Analysis",Data Science,Retrieve Data using Single-Table SQL Queries,No
+STU0101,ECE,4,"Project, docker, project",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0102,ECE,2,"Python, Programming, semantics, coding",Python & Software,Python Programming Essentials,Yes
+STU0103,IT,2,"Computing, cloud engineering, database design",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0104,ECE,4,"layer, authentication, multiplexed, data analysis metrics",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0105,CSE,2,"regulation, cloud architecture, cyber, cybersecurity",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0106,IT,4,"excel, education, teaching, child",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0107,IT,2,"rackspace cloud api, html 5, concision",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0108,CSE,2,"Management, tcp/ip networking, microsoft azure, Leadership",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0109,IT,4,"security reporting, packet, switching",Cybersecurity,Packet Switching Networks and Algorithms,No
+STU0110,IT,3,"employment, coding (python, aggregate, function",Data Science,Mastering SQL Joins,Yes
+STU0111,IT,4,"java, annotation",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,No
+STU0112,CSE,3,"databases, Machine, Planning",AI/ML,Project Planning and Machine Learning,Yes
+STU0113,IT,2,"databases management, database, Databases",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0114,IT,4,"ecosystems, html/css/javascript, ecotourism, nosql technologies",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0115,ECE,4,"iteration, specification, database architecture, standard",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0116,CSE,2,"excel, patient",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0117,ECE,3,"javascript, iOS, syntax, network security",Cybersecurity,Networking and Security in iOS Applications,No
+STU0118,IT,2,"Programming, handling, java/j2ee",Python & Software,Exception Handling in Python,Yes
+STU0119,CSE,3,"and, aws api gateway, database queries",Data Science,Managing Big Data with MySQL,Yes
+STU0120,IT,3,"management, Marketing, programming (python, category",AI/ML,Channel Management and Retailing,Yes
+STU0121,ECE,2,"And, tensorflow, Eigenvalues, Algebra",AI/ML,Mathematics for Machine Learning: Linear Algebra,No
+STU0122,ECE,3,"https, key, cryptography",Cybersecurity,Wireshark for Basic Network Security Analysis,No
+STU0123,CSE,4,"substance, medication",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0124,CSE,4,"aws or gcp, Analysis",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0125,IT,3,"Data, sql",Data Science,Retrieve Data using Single-Table SQL Queries,No
+STU0126,IT,4,"azure ml, query languages (sql, Management",AI/ML,Agile Projects:  Developing Tasks with Taiga,No
+STU0127,ECE,4,"unix networking, semantics",Python & Software,Python Programming Essentials,Yes
+STU0128,CSE,4,"business, aws environment, Computing",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0129,IT,3,"authentication, transport, amazon aws and apis",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0130,CSE,2,"data security controls, regulation, networking hardware",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,No
+STU0131,CSE,2,"teaching, python programming",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,No
+STU0132,EEE,4,"Transpose, Computer, concision",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0133,ECE,3,"azure vm, Management, crime",Cybersecurity,Homeland Security and Cybersecurity Future,No
+STU0134,CSE,2,"management, excel",Cybersecurity,Packet Switching Networks and Algorithms,No
+STU0135,IT,3,"project, google cloud platform, aggregate, r/python libraries",Data Science,Mastering SQL Joins,Yes
+STU0136,CSE,4,"Databases, r or python, integrated, java",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0137,ECE,4,"database design, Algorithms",AI/ML,Project Planning and Machine Learning,Yes
+STU0138,CSE,4,"aws glue, database, systems, management",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0139,ECE,3,"economics, cloud computing",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0140,EEE,3,"standard, cloud foundry, azure ad, specification",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0141,CSE,2,"patient, leadership",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),No
+STU0142,IT,4,"syntax, oauth, iOS, security+ ce",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0143,EEE,2,"es6 javascript, exception, handling, java (v7 - 8",Python & Software,Exception Handling in Python,Yes
+STU0144,CSE,4,"nosql technologies, and, Leadership, agile",Data Science,Managing Big Data with MySQL,No
+STU0145,CSE,3,"management, retailing, Marketing, sql and nosql",AI/ML,Channel Management and Retailing,No
+STU0146,IT,3,"c/c++, sigmaalgebra",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0147,ECE,2,"security hardware, cryptography, telnet, security products",Cybersecurity,Wireshark for Basic Network Security Analysis,No
+STU0148,IT,3,"medication, buprenorphinenaloxone, patient",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0149,IT,3,"Segmentation, google cloud services, aws or gcp, analysis",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0150,CSE,2,"nosql, Analysis",Data Science,Retrieve Data using Single-Table SQL Queries,Yes
+STU0151,CSE,2,"modeling, project, cloud computing, Project",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0152,EEE,2,"semantics, Programming, Python, azure services",Python & Software,Python Programming Essentials,Yes
+STU0153,CSE,4,"business, Cloud",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0154,ECE,2,"authentication, multiplexed, layer",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0155,IT,4,"network security (acls, ms sql server database, cybersecurity",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0156,ECE,2,"aws, python (numpy, education, development",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0157,IT,2,"concision, Computer, system security",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0158,IT,4,"Leadership, and",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0159,ECE,2,"traffic, management, java, packet",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0160,IT,3,"employment, project",Data Science,Mastering SQL Joins,No
+STU0161,IT,2,"integrated, annotation, user security",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,No
+STU0162,CSE,4,"Machine, Planning",AI/ML,Project Planning and Machine Learning,Yes
+STU0163,IT,4,"azure data lake, python scripting",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0164,IT,3,"ecosystems, ecotourism, economics, health data analysis",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0165,ECE,2,"technical, iteration",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0166,CSE,3,"Strategy, proficiency in excel",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0167,ECE,3,"syntax, oauth, javascript, iOS",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0168,IT,2,"Programming, docker",Python & Software,Exception Handling in Python,Yes
+STU0169,CSE,3,"SQL, writing sql statements",Data Science,Managing Big Data with MySQL,No
+STU0170,ECE,3,"category, experience with python",AI/ML,Channel Management and Retailing,Yes
+STU0171,ECE,2,"aws ecosystem, Algebra",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0172,IT,3,"cryptography, microsoft excel, security documentation",Cybersecurity,Wireshark for Basic Network Security Analysis,Yes
+STU0173,CSE,3,"buprenorphinenaloxone, substance",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),No
+STU0174,CSE,2,"analysis, PyTorch, Analysis",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0175,IT,2,"select, data wrangling (sql",Data Science,Retrieve Data using Single-Table SQL Queries,Yes
+STU0176,ECE,4,"modeling, sql-like databases, Management",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0177,CSE,3,"Programming, semantics, coding, ms sql server",Python & Software,Python Programming Essentials,Yes
+STU0178,IT,3,"nosql (mongodb, Computing, aws components",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0179,ECE,3,"multiplexed, knowledge of aws, layer",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0180,ECE,3,"regulation, security",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0181,CSE,4,"education, development, excel, child",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0182,ECE,2,"Transpose, javascript/jquery",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0183,CSE,4,"and, cloud networking",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0184,ECE,4,"management, security reviews, cloud-based products, traffic",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0185,IT,3,"employment, aggregate",Data Science,Mastering SQL Joins,Yes
+STU0186,CSE,3,"annotation, database queries",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,No
+STU0187,CSE,4,"Algorithms, amazon aws",AI/ML,Project Planning and Machine Learning,Yes
+STU0188,CSE,3,"Databases, scrum, database, management",Data Science,Create Relational Database Tables Using SQLiteStudio,No
+STU0189,IT,4,"ecosystems, ecotourism",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0190,IT,3,"specification, technical",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0191,ECE,4,"patient, java, Strategy",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0192,ECE,4,"syntax, oauth, security assessments, security solutions",Cybersecurity,Networking and Security in iOS Applications,No
+STU0193,CSE,4,"core java, data analysis, Programming, handling",Python & Software,Exception Handling in Python,Yes
+STU0194,CSE,3,"database tools, Management, Leadership, and",Data Science,Managing Big Data with MySQL,No
+STU0195,CSE,4,"experience in sql, pytorch",AI/ML,Channel Management and Retailing,No
+STU0196,CSE,2,"Eigenvalues, html/css/javascript",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0197,CSE,2,"telnet, networking",Cybersecurity,Wireshark for Basic Network Security Analysis,Yes
+STU0198,IT,4,"nosql databases, c++, medication, buprenorphinenaloxone",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0199,CSE,4,"PyTorch, ip networking concepts",Data Science,Analyze Website Visitors with Google Analytics Segments,No
+STU0200,IT,4,"microsoft excel, Analysis, sql",Data Science,Retrieve Data using Single-Table SQL Queries,No
+STU0201,CSE,3,"Project, Management",AI/ML,Agile Projects:  Developing Tasks with Taiga,No
+STU0202,ECE,2,"coding, java 8, sql and nosql",Python & Software,Python Programming Essentials,Yes
+STU0203,CSE,3,"Computing, Cloud, business, database integration",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0204,CSE,2,"cloud certifications, multiplexed, layer",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,No
+STU0205,IT,4,"security, cybersecurity",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0206,CSE,3,"education, development",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0207,EEE,3,"Transpose, Programming, ssl security, Computer",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0208,CSE,2,"crime, security reporting, Leadership",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0209,ECE,3,"cybersecurity tools, security zones",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0210,IT,4,"aggregate, database data models, function",Data Science,Mastering SQL Joins,No
+STU0211,CSE,4,"aws analytics, aws services (rds, Databases",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0212,CSE,4,"databases (sql, Algorithms",AI/ML,Project Planning and Machine Learning,No
+STU0213,CSE,3,"database, coding (sql, systems, sql query writing",Data Science,Create Relational Database Tables Using SQLiteStudio,No
+STU0214,IT,2,"economics, python stack, ecotourism",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0215,CSE,3,"scrum methodology, specification, standard, cloudwatch",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0216,CSE,4,"patient, coding (c/c++, project, leadership",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),No
+STU0217,CSE,3,"oauth, javascript",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0218,ECE,3,"handling, exception, Python, javascript/node",Python & Software,Exception Handling in Python,Yes
+STU0219,IT,3,"and, SQL, sql queries",Data Science,Managing Big Data with MySQL,No
+STU0220,IT,4,"management, experience with python",AI/ML,Channel Management and Retailing,Yes
+STU0221,ECE,3,"Algebra, And, sigmaalgebra",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0222,IT,4,"c++, key, cloud",Cybersecurity,Wireshark for Basic Network Security Analysis,No
+STU0223,ECE,3,"buprenorphinenaloxone, substance, medication",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),No
+STU0224,IT,4,"analysis, Analysis",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0225,CSE,2,"azure paas, sql, Data, agile development",Data Science,Retrieve Data using Single-Table SQL Queries,Yes
+STU0226,IT,3,"project, html/css/javascript, modeling, Project",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0227,EEE,3,"iron python, Python",Python & Software,Python Programming Essentials,Yes
+STU0228,CSE,3,"business, database querying",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,No
+STU0229,ECE,3,"transport, layer, multiplexed",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,No
+STU0230,CSE,4,"cybersecurity, security",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,No
+STU0231,ECE,4,"security, education, child",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0232,EEE,4,"t-sql, Programming",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0233,CSE,3,"and, crime",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0234,IT,3,"switching, network security, packet, management",Cybersecurity,Packet Switching Networks and Algorithms,No
+STU0235,IT,4,"programming (java, aggregate, function",Data Science,Mastering SQL Joins,Yes
+STU0236,CSE,2,"networking operations, annotation, java, nosql databases",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,No
+STU0237,IT,2,"nosql databases, Learning",AI/ML,Project Planning and Machine Learning,Yes
+STU0238,IT,2,"systems, databases management",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0239,ECE,2,"economics, the, python stack, ecosystems",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0240,EEE,4,"technical, nosql data modeling",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0241,IT,4,"azure ml, agile principles",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0242,ECE,4,"security reviews, oauth, iOS",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0243,IT,2,"Programming, handling, exception",Python & Software,Exception Handling in Python,Yes
+STU0244,IT,4,"Management, mssql server, Leadership",Data Science,Managing Big Data with MySQL,Yes
+STU0245,CSE,3,"sql experience, category, management",AI/ML,Channel Management and Retailing,Yes
+STU0246,CSE,2,"Algebra, Eigenvalues, And",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0247,CSE,3,"aws certifications, cryptography, telnet",Cybersecurity,Wireshark for Basic Network Security Analysis,Yes
+STU0248,IT,3,"substance, core java",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0249,IT,2,"Analysis, pl/sql developer",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0250,IT,4,"Data, select",Data Science,Retrieve Data using Single-Table SQL Queries,No
+STU0251,CSE,3,"project, Management",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0252,ECE,3,"semantics, coding, html 5",Python & Software,Python Programming Essentials,Yes
+STU0253,CSE,2,"Computing, aws cloud technologies, Cloud, java development",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0254,CSE,4,"javascript and html5, transport, multiplexed",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,No
+STU0255,ECE,3,"cybersecurity, regulation",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,No
+STU0256,CSE,3,"nosql technologies, microsoft excel",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0257,IT,4,"graph data analysis, Transpose, c/c++, concision",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0258,ECE,2,"Management, security technologies",Cybersecurity,Homeland Security and Cybersecurity Future,No
+STU0259,ECE,4,"excel skills, packet, management, switching",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0260,CSE,2,"employment, function, ansi sql expertise, aggregate",Data Science,Mastering SQL Joins,Yes
+STU0261,IT,4,"annotation, integrated, java",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0262,CSE,4,"Planning, Machine, Learning, Algorithms",AI/ML,Project Planning and Machine Learning,Yes
+STU0263,IT,4,"Databases, systems, management, oracle cloud databases",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0264,CSE,3,"test data analysis, economics, ecosystems, ecotourism",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0265,EEE,3,"database design (mysql, technical, iteration",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0266,IT,3,"Strategy, leadership, patient",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0267,IT,4,"aws architectures, oauth, syntax",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0268,EEE,4,"Programming, security practices",Python & Software,Exception Handling in Python,Yes
+STU0269,CSE,4,"aws services, azure ml, Leadership, SQL",Data Science,Managing Big Data with MySQL,Yes
+STU0270,IT,4,"retailing, management",AI/ML,Channel Management and Retailing,No
+STU0271,CSE,3,"Algebra, c++",AI/ML,Mathematics for Machine Learning: Linear Algebra,No
+STU0272,IT,4,"key, security controls",Cybersecurity,Wireshark for Basic Network Security Analysis,Yes
+STU0273,IT,2,"test data analysis, patient, medication, substance",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0274,CSE,2,"pl/sql, Segmentation",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0275,IT,4,"select, sparksql",Data Science,Retrieve Data using Single-Table SQL Queries,No
+STU0276,IT,2,"Project, modeling, project",AI/ML,Agile Projects:  Developing Tasks with Taiga,No
+STU0277,ECE,2,"Python, semantics, Programming, core java/ j2ee",Python & Software,Python Programming Essentials,No
+STU0278,CSE,2,"business, Computing, proficiency in mysql",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,No
+STU0279,CSE,3,"transport, layer",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0280,ECE,3,"excel, information security, cybersecurity, regulation",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0281,CSE,3,"teaching, education",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0282,ECE,3,"Transpose, aws technologies, Programming, Computer",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0283,ECE,2,"Management, crime, mysql, security products",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0284,ECE,3,"packet, security metrics, management, traffic",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0285,CSE,4,"r or python, aws services (rds",Data Science,Mastering SQL Joins,Yes
+STU0286,IT,2,"integrated, Databases, java, annotation",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,No
+STU0287,IT,4,"aws services (s3, Planning",AI/ML,Project Planning and Machine Learning,Yes
+STU0288,CSE,4,"systems, database, Databases, management",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0289,ECE,2,"ecosystems, economics",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0290,ECE,2,"standard, iteration",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",No
+STU0291,ECE,4,"patient, java development, leadership",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0292,ECE,2,"oauth, javascript, iOS",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0293,IT,4,"exception, handling",Python & Software,Exception Handling in Python,No
+STU0294,CSE,4,"and, Leadership, database engineering",Data Science,Managing Big Data with MySQL,Yes
+STU0295,CSE,2,"amazon aws, retailing, Marketing",AI/ML,Channel Management and Retailing,Yes
+STU0296,ECE,2,"programming in python, Algebra, sigmaalgebra",AI/ML,Mathematics for Machine Learning: Linear Algebra,No
+STU0297,IT,2,"telnet, https, data center networking, key",Cybersecurity,Wireshark for Basic Network Security Analysis,Yes
+STU0298,ECE,4,"buprenorphinenaloxone, patient, programming in python, medication",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0299,IT,4,"analysis, microsoft excel, PyTorch",Data Science,Analyze Website Visitors with Google Analytics Segments,No
+STU0300,IT,3,"excellian, sql, select, ansi sql",Data Science,Retrieve Data using Single-Table SQL Queries,Yes
+STU0301,CSE,2,"docker, Management",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0302,IT,3,"coding, semantics",Python & Software,Python Programming Essentials,Yes
+STU0303,IT,3,"requirements, Cloud, business",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,Yes
+STU0304,ECE,4,"transport, layer",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,Yes
+STU0305,CSE,3,"systems security, azure vm",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,Yes
+STU0306,ECE,2,"development, docker",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,No
+STU0307,EEE,3,"pytorch, Programming, concision, Computer",Python & Software,Python Tricks and Hacks for Productivity,No
+STU0308,ECE,3,"Management, networking protocols, network security, and",Cybersecurity,Homeland Security and Cybersecurity Future,No
+STU0309,IT,3,"management, traffic, switching, security standards",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0310,IT,3,"function, aggregate, project, employment",Data Science,Mastering SQL Joins,Yes
+STU0311,CSE,3,"integrated, complex sql",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0312,CSE,4,"tensorflow, Planning, database querying",AI/ML,Project Planning and Machine Learning,Yes
+STU0313,CSE,4,"cloud technologies, Databases, management, systems",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0314,CSE,4,"ecotourism, ecosystems",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0315,IT,3,"specification, technical",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0316,CSE,4,"python programming, patient, python stack, leadership",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),No
+STU0317,ECE,4,"agile practices, syntax, agile methodologies, oauth",Cybersecurity,Networking and Security in iOS Applications,No
+STU0318,ECE,2,"Python, sql server (scripting",Python & Software,Exception Handling in Python,Yes
+STU0319,CSE,3,"and, programming (java, Management",Data Science,Managing Big Data with MySQL,No
+STU0320,IT,4,"proficiency in python, Marketing",AI/ML,Channel Management and Retailing,Yes
+STU0321,IT,3,"Algebra, And",AI/ML,Mathematics for Machine Learning: Linear Algebra,No
+STU0322,CSE,3,"security auditing, telnet",Cybersecurity,Wireshark for Basic Network Security Analysis,No
+STU0323,CSE,4,"medication, pytorch, experience in sql, substance",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),No
+STU0324,CSE,2,"agile practices, Segmentation",Data Science,Analyze Website Visitors with Google Analytics Segments,Yes
+STU0325,CSE,4,"Analysis, sql, Data, data analysis",Data Science,Retrieve Data using Single-Table SQL Queries,Yes
+STU0326,CSE,4,"proficiency in python, Project, Management, java or python",AI/ML,Agile Projects:  Developing Tasks with Taiga,Yes
+STU0327,ECE,2,"semantics, security compliance, coding",Python & Software,Python Programming Essentials,Yes
+STU0328,IT,3,"Computing, Cloud, business, sparksql",Data Science,Preparing for the Google Cloud Professional Data Engineer Exam,No
+STU0329,ECE,4,"layer, html5 and css, multiplexed, transport",Cloud Computing,Hybrid Cloud Service Mesh with Anthos,No
+STU0330,IT,2,"cyber, regulation, cybersecurity, security",Cybersecurity,Introduction to Cybersecurity Tools & Cyber Attacks,No
+STU0331,IT,3,"python stack, teaching",AI/ML,Teaching Children with Visual Impairment: Creating Empowering Classrooms,Yes
+STU0332,CSE,2,"concision, Transpose, aws ecosystem",Python & Software,Python Tricks and Hacks for Productivity,Yes
+STU0333,CSE,2,"comptia security+, microsoft azure, crime",Cybersecurity,Homeland Security and Cybersecurity Future,Yes
+STU0334,IT,3,"it security, office 365 security",Cybersecurity,Packet Switching Networks and Algorithms,Yes
+STU0335,CSE,4,"aggregate, database security, function",Data Science,Mastering SQL Joins,No
+STU0336,CSE,2,"annotation, azure ml, integrated",Data Science,Create a Database with the Modeling Tool in MySQL Workbench,Yes
+STU0337,IT,3,"Algorithms, Planning, Machine",AI/ML,Project Planning and Machine Learning,Yes
+STU0338,IT,2,"tableau development, sql and python skills, management",Data Science,Create Relational Database Tables Using SQLiteStudio,Yes
+STU0339,IT,3,"economics, docker, ecosystems",AI/ML,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,Yes
+STU0340,ECE,3,"html5/css3, technical, standard, sql server database",Python & Software,"Learn to Teach Java:   Boolean Expressions, If Statements, and Iteration",Yes
+STU0341,IT,3,"Strategy, patient, project",AI/ML,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Yes
+STU0342,ECE,4,"syntax, oauth, javascript",Cybersecurity,Networking and Security in iOS Applications,Yes
+STU0343,EEE,4,"Python, handling, Programming, python coding",Python & Software,Exception Handling in Python,Yes
+STU0344,IT,4,"Leadership, and, sql server",Data Science,Managing Big Data with MySQL,Yes
+STU0345,ECE,3,"retailing, management, sql experience",AI/ML,Channel Management and Retailing,No
+STU0346,CSE,2,"amazon aws, postgresql, Algebra",AI/ML,Mathematics for Machine Learning: Linear Algebra,Yes
+STU0347,IT,2,"https, cloud technologies, cryptography, telnet",Cybersecurity,Wireshark for Basic Network Security Analysis,Yes
+STU0348,ECE,4,"c++, database software",AI/ML,Advanced Practice Provider/Physician Assistant: Opioid Use Disorder Medication Assisted Treatment Waiver Training (24hr),Yes
+STU0349,IT,2,"Analysis, networking, PyTorch",Data Science,Analyze Website Visitors with Google Analytics Segments,No
+STU0350,IT,3,"Data, database structure, Analysis",Data Science,Retrieve Data using Single-Table SQL Queries,Yes
